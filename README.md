@@ -1,5 +1,4 @@
-# Caixa-Registradora-JS
-Código JavaScript da solução digital
+
 function checkCashRegister(price, cash, cid) {
     for(var i = 0, total = 0; i < cid.length; i++){
     total += cid[i][1]};
